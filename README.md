@@ -1,5 +1,5 @@
 # Spring MVC Boilerplate
-Starter code for Spring Boot through Sprint Initializr
+Starter code for Spring Boot 2.7.3.
 
 ### Dependencies:
 - JDK 1.8 or later
@@ -15,5 +15,7 @@ Change port number by adding the line below to /src/main/resources/application.p
 >server.port=1234
  
 ### Resources
-- [Sprint Initializr](https://start.spring.io/)
-- [Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/#scratch)
+- Initial JVM project created through [Sprint Initializr](https://github.com/spring-io/initializr/)
+-- Java Version: 11
+-- Sprint Boot: 2.7.3
+- [Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/#scratch) 
