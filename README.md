@@ -10,7 +10,7 @@ Starter code for Spring Boot through Sprint Initializr
 >./mvnw spring-boot:run
 
 You should be able to curl localhost:8080 and receive a basic text response. 
-Change port number by adding the line below to ** /src/main/resources/application.properties
+Change port number by adding the line below to **/src/main/resources/application.properties
 
 >server.port=1234
  
